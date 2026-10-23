@@ -1,2 +1,2 @@
 # Address-Book
-An interactive address book project which stores information entered by the user and this is built using C language
+An interactive Address book project which stores information entered by the user and can be used for future references as well.
